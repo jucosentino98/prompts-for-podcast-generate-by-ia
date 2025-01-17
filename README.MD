@@ -1,19 +1,11 @@
-ecnologia utilizada
-*ChatGPT
+ Neste projeto foi para desenvolver um podcast junto com inteligencia artificial.
+ programas de utilizei foi:
+Elven Labs
+Chat gpt
+PODERIA TER USADO MAIS? SIM MAS MEU INTUITO NO MOMENTO ERA EXPLORAR NOSSOS PROGRAMAS.
 
-Capcut
-ElevenLabs
-Prompts
-Você é um roteirista de POdcast e vamos criar um roteiro de podscat de Inteligência Artificial e suas usabilidade nas Instituições financeiras, destacando os principais benefícios e malefícios. O POdcast é para um público iniciantes.
+TEMA DO MEU PROJETO FOI SOBRE ECONOMIA NO BRASIL EM 2025
+O qual por isso o nome do podcast em POD GERA Z, onde ele  associa para a geração Z que não é ligada ao mundo e vive nas redes, para que de alguma forma tecnologia ele obtenha conhecimento sobre politica do seu país.
 
-O formato do roteiro
-[ INTRODUÇÃO]
-[ CURIOSIDADE 1]
-[ CURIOSIDADE 2]
-[ FINALIZAÇÃO]
-
-Na introdução substitua por uma introdução chamando os bancários
-
-O POdcast será apresentado por apenas uma pessoa chamada Larissa O podscat deve ser curto
-
-Arquivo
+LINK DO PODCAST:
+https://share.vidnoz.com/aivideo?id=aishare-zEnZkPw7GGz9PnULhxFGQABU173715310313517493
